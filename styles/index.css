@@ -413,3 +413,20 @@ p {
 	}
 	
 }
+@media (max-width: 410px) {
+	
+	.header__menu-list{
+		justify-content: center;
+		column-gap: 0px;
+	}
+	.header__menu-item {
+		font-size: 26px;
+	}
+	.main__inner{
+		column-gap: 3px;
+	}
+		.main__info__subtitle{
+			font-size: 29px;
+		}
+	
+}
